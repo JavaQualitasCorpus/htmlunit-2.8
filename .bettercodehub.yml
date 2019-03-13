@@ -1,0 +1,34 @@
+component_depth: 1
+languages:
+- script
+exclude:
+- ./bin/.*
+- ./bin/com/.*
+- ./bin/com/gargoylesoftware/.*
+- ./bin/com/gargoylesoftware/htmlunit/.*
+- ./bin/com/gargoylesoftware/htmlunit/attachment/.*
+- ./bin/com/gargoylesoftware/htmlunit/gae/.*
+- ./bin/com/gargoylesoftware/htmlunit/html/.*
+- ./bin/com/gargoylesoftware/htmlunit/html/applets/.*
+- ./bin/com/gargoylesoftware/htmlunit/html/impl/.*
+- ./bin/com/gargoylesoftware/htmlunit/html/xpath/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/background/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/configuration/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/host/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/host/canvas/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/host/css/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/host/html/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/host/xml/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/regexp/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/regexp/mozilla/.*
+- ./bin/com/gargoylesoftware/htmlunit/javascript/regexp/mozilla/js1_2/.*
+- ./bin/com/gargoylesoftware/htmlunit/libraries/.*
+- ./bin/com/gargoylesoftware/htmlunit/protocol/.*
+- ./bin/com/gargoylesoftware/htmlunit/protocol/about/.*
+- ./bin/com/gargoylesoftware/htmlunit/protocol/data/.*
+- ./bin/com/gargoylesoftware/htmlunit/protocol/javascript/.*
+- ./bin/com/gargoylesoftware/htmlunit/ssl/.*
+- ./bin/com/gargoylesoftware/htmlunit/util/.*
+- ./bin/com/gargoylesoftware/htmlunit/xml/.*
+- ./lib/.*
